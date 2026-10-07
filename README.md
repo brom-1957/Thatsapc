@@ -209,4 +209,4 @@ ThatsaPC is available as a full free version with all features and updates inclu
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-07 16:00:13 UTC
+**Last updated:** 2026-10-07 21:43:28 UTC
